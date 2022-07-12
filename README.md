@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bashir-Kalyesubula
-- 👀 I’m interested in ...Web Development 
-- 🌱 I’m currently learning ...JavaScript and frameworks.(already built a couple projects using CSS and HTML)  
-- 💞️ I’m looking to collaborate on ...Web development projects 
+- 👀 I’m interested in ...Chemistry and Datascience  
+- 🌱 I’m currently learning about several programming packages for chemistry studies  
+- 💞️ I’m looking to collaborate on any computational chemistry  
 - 📫 How to reach me ...email :bashirkalyesubula2@gmail.com
 
 <!---
