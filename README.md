@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bashir-Kalyesubula
-- 👀 I’m interested in ...Chemistry and Datascience  
-- 🌱 I’m currently learning about several programming packages for chemistry studies  
-- 💞️ I’m looking to collaborate on any computational chemistry  
+- 👀 A Chemistist,PT-Trainer, self-taught Software developer and DataAnalyst  
+- 🌱 I’m currently learning about several programming packages for chemistry-software studies  
+- 💞️ I’m looking to collaborate on any educational Software developments   
 - 📫 How to reach me ...email :bashirkalyesubula2@gmail.com
 
 <!---
